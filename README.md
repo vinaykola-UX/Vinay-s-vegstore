@@ -1,2 +1,2 @@
 # Vinay-s-vegstore
-A simole vegetable online store
+A simple vegetable online store
